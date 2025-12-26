@@ -1,0 +1,54 @@
+git ststus
+cls
+git status
+cd
+cls
+cd
+type nu1 > testing.py
+dir
+cls
+git ststus
+cls
+git ststus
+cls
+git status
+cls
+git add testing.py
+git status
+git rm --cached testing.py
+git status
+cls
+git add.
+git add .
+git stauts
+cls
+git status
+git commit -m
+cls
+git commit -m "ADD the git file"
+git ststus
+cls
+git status
+rm testing.py
+del testing.py
+cls
+git restore testing.py
+cls
+history
+cls
+history'
+cls
+history
+doskey
+y
+cls
+doskey
+git status
+Get-History
+get - history
+cls
+doskey/history
+git remote -v
+git push origin master
+cls
+doskey/history
